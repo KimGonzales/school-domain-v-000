@@ -16,8 +16,8 @@ class School
   #   else
   #     roster[grade] = [student]
   #   end
-  # end
-  #
+  end
+
   def grade(grade)
     @roster[grade]
   end
